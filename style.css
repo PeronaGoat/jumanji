@@ -1,6 +1,6 @@
 p {
     color: rgb(234, 0, 255);
-    font-size: 70px;
+    font-size: 20px;
     text-align: center;
     }
     body{
@@ -8,6 +8,7 @@ p {
         } 
         h1{
             color:palevioletred ;
+            font-size: 70px
             font-family: ;
             background: ;
             }
