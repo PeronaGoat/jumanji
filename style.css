@@ -6,15 +6,16 @@ p {
     body{
         background-color:rgb(70, 6, 95);
         } 
-        h1{
-            color:rgb(255, 0, 0) ;
-            font-size: 50px;
-            text-align: center;
-            background: ;
-            }
 
-            #SUS{
+h1{
+color:rgb(255, 0, 0) ;
+ font-size: 50px;
+text-align: center;
+background: ;
+}
 
-                width: 100%;
-            }
+#SUS{
+
+    width: 100%;
+}
         
